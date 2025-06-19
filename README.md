@@ -16,7 +16,7 @@ For the individual pipelines, experiments are done using several optimization te
 3. Independent Component Analysis (ICA) to remove eye artifacts for all pipelines.
 
 ## Overview
-
+c-VEP --> straightforward, only experiments with and without ICA. For the others notebooks are used.
 
 
 

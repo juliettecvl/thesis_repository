@@ -16,8 +16,23 @@ For the individual pipelines, experiments are done using several optimization te
 3. Independent Component Analysis (ICA) to remove eye artifacts for all pipelines.
 
 ## Overview
-c-VEP --> straightforward, only experiments with and without ICA. For the others notebooks are used.
+This repository contains all code used for preprocessing and decoding in the context of my thesis. It is organized into two main folders:
 
+1. Preprocessing: Contains scripts for data loading, cleaning, ICA artifact removal, and filtering.
 
+2. Decoding: Contains decoding pipelines for each neural marker. Notebooks are used for P300, alpha, and the hybrid decoding approaches. The c-VEP decoding is implemented in a script due to its relatively straightforward setup (with only ICA applied as an additional variation).
+
+Additionally, there is a separate notebook dedicated to statistical analysis and visualization of the results presented in the thesis.
 
 ## Versions
+Below are the most frequently used libraries and their versions in this project:
+
+- Python: 3.9.18
+
+- MNE: 1.6.1
+
+- Scikit-learn: 1.6.1 
+
+- PyntBCI: 1.2.0
+
+- NumPy: 1.26.4

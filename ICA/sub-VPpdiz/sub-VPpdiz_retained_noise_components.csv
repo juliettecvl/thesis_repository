@@ -1,0 +1,12 @@
+Component,Reason
+29,Does not appear to be a brain signal.
+53,Noisy time series.
+20,Noisy time series.
+33,"Noisy time series, could be that electrode is losing touch with scalp."
+31,"Noisy time series, could be that electrode is losing touch with scalp."
+40,"More noisy time series, specifically after around 330 seconds."
+20,"More noisy time series, specifically after around 330 seconds."
+43,Moire noisy time series after approximately 440 seconds.
+47,Moire noisy time series after approximately 440 seconds.
+51,Moire noisy time series after approximately 440 seconds.
+58,Moire noisy time series after approximately 440 seconds.

@@ -1,0 +1,3 @@
+Component,Reason
+22,Noisy time series.
+40,Peaks similar to eyeblinks but activity is centered on a single electrode (approximately F2).

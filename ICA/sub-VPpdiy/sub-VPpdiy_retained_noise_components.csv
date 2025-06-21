@@ -1,0 +1,6 @@
+Component,Reason
+37,Does not appear to be a brain signal.
+27,Noisy time series.
+40,Noisy time series.
+57,Noisy time series but restores itself after approximately 200 seconds.
+55,Noisy time series but restores itself after approximately 200 seconds.

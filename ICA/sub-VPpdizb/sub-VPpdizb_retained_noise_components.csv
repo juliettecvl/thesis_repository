@@ -1,0 +1,8 @@
+Component,Reason
+30,Does not appear to be a brain signal.
+22,Noisy time series.
+28,Noisy time series.
+37,Noisy time series.
+38,Noisy time series.
+27,Noisy time series.
+24,"Noisy time series, seems like electrode is losing touch with scalp."

@@ -1,0 +1,4 @@
+Component,Reason
+28,Does not appear to be brain activity.
+33,Very noisy signal in time series.
+15,"Slightly noise signal in time series, especially after 400 seconds."

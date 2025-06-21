@@ -1,0 +1,5 @@
+Component,Reason
+0,Appear to be eyeblinks due to peaks in time series and frontal activity.
+2,"Likely to be eye movements, only frontal activity and peaks similar to eyeblinks, but not very strong. Removed to be sure."
+5,Appear to be eyeblinks due to peaks in time series and frontal activity.
+15,"Likely to be eye movements, only frontal activity and peaks similar to eyeblinks, but not very strong. Removed to be sure."

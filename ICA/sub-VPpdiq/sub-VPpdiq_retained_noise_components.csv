@@ -1,0 +1,4 @@
+Component,Reason
+34,Noisy time series
+45,Does not appear to be a brain signal.
+50,"Noisy time series, seems like electrode is losing touch with the scalp."

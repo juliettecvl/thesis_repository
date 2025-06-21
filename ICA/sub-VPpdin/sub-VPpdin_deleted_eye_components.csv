@@ -1,0 +1,13 @@
+Component,Reason
+0,Appear to be eyeblinks due to peaks in time series and frontal activity.
+1,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+2,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+3,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+4,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+6,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+9,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+11,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+24,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+25,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+33,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."
+40,"Peaks that appear similar to eyeblinks but have a relatively long duration. Because the activity is only frontal, this component is removed to be sure."

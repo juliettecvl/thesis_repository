@@ -1,0 +1,6 @@
+Component,Reason
+28,"Peaks similar to eyeblinks, but spatial location is around electrode CP3/CP5."
+18,"Noisy time signal, seems like electrode is losing touch with scalp."
+25,Does not appear to be a brain signal.
+39,Noisy time series.
+54,Noisy time series.

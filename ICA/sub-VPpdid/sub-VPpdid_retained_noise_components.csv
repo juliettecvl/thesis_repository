@@ -1,0 +1,9 @@
+Component,Reason
+3,Time series is very noisy.
+23,Time series is very noisy.
+54,Does not appear to be a brain signal.
+27,"Time series sometimes very noisy, for instance, from 330 until 390 seconds."
+28,"Time series sometimes very noisy, for instance, from 330 until 390 seconds."
+29,"Time series sometimes very noisy, for instance, from 330 until 390 seconds."
+44,Time series appears to be somewhat noisy.
+56,Time series appears to be somewhat noisy.

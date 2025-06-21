@@ -16,11 +16,13 @@ For the individual pipelines, experiments are done using several optimization te
 3. Independent Component Analysis (ICA) to remove eye artifacts for all pipelines.
 
 ## Overview
-This repository contains all code used for preprocessing and decoding in the context of my thesis. It is organized into two main folders:
+This repository contains all code used for preprocessing and decoding in the context of my thesis. It is organized into three main folders:
 
 1. Preprocessing: Contains scripts for data loading, cleaning, ICA artifact removal, and filtering.
 
 2. Decoding: Contains decoding pipelines for each neural marker. Notebooks are used for P300, alpha, and the hybrid decoding approaches. The c-VEP decoding is implemented in a script due to its relatively straightforward setup (with only ICA applied as an additional variation).
+
+3. ICA: Contains the ICA done for this thesis. For every participant it contains a file containing the ICA solution, bad electrodes, rejected components and retained components. There are also visualizations of the bad electrodes and rejected components. Note that the latter is still a work in progress (as this is part of a project separate from my thesis).
 
 Additionally, there is a separate notebook dedicated to statistical analysis and visualization of the results presented in the thesis.
 
